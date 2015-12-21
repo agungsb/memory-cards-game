@@ -1,7 +1,7 @@
 # memory-cards-game
 A simple memory cards game for everyone
 
-How to use:
+How to run:
 
 1. Clone this repo to your local machine
 2. Go the directory
