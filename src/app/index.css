@@ -71,15 +71,13 @@ section.jumbotron h1 {
 
 .techs {
   display: flex;
-  width: 70%;
   margin: 0 auto;
   flex-flow: row wrap;
-  overflow: hidden;
 }
 
 .techs md-card {
     /*width: 30%;*/
-    width: 14%;
+    width: 95px;
     height: 80px;
     background-image: url(../assets/images/cards/imageDefault.png);  
     background-position: center;
